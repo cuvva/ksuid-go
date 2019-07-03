@@ -1,4 +1,4 @@
-module github.com/cuvva/ksuid
+module github.com/cuvva/ksuid-go
 
 require (
 	github.com/jamescun/basex v0.0.0-20180407124237-e1bcb39ab18e
