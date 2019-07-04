@@ -50,7 +50,7 @@ id, err := ksuid.Parse([]byte("user_000000BWHKXYBQe5Dt06dsPlgJAh6"))
 ### Command Line Tool
 
 ```sh
-go get -u github.com/cuvva/ksuid/cmd/ksuid
+go get -u github.com/cuvva/ksuid-go/cmd/ksuid
 ```
 
 ksuid provides a helper utility to generate and parse ksuid on the command line, it contains two subcommands: `parse` and `generate`.
